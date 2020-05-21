@@ -1,2 +1,2 @@
-# learn-expressjs-mvc
-Weather Finder App
+# Weather Finder App
+## Learning MVC
